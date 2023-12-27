@@ -1,0 +1,3 @@
+[submodule "Spark_Neo4J_scored_paths_computation"]
+	path = Spark_Neo4J_scored_paths_computation
+	url = https://github.com/Jesshuan/Spark_Neo4J_scored_paths_computation.git
